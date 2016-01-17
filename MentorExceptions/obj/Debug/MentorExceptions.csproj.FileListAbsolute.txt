@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\MentorExceptions.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\MentorExceptions.exe
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\MentorExceptions.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\obj\Debug\MentorExceptions.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\obj\Debug\MentorExceptions.exe
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\obj\Debug\MentorExceptions.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\NLog.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\NLog.xml
+c:\users\user\documents\visual studio 2013\Projects\MentorExceptions\MentorExceptions\bin\Debug\NLog.config

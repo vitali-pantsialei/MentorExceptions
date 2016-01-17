@@ -1,0 +1,2 @@
+2016-01-17 16:37:27.6813|INFO|MentorExceptions.Program|User has entered empty string
+2016-01-17 16:37:30.4004|INFO|MentorExceptions.Program|User has entered empty string
